@@ -21,7 +21,7 @@ Munchappy connects customers with local merchants and independent couriers throu
 * **For Restaurants:** We provide the infrastructure to digitize your business without sacrificing your margins. We view ourselves as a partner in your growth, not a tax on your existence.
 * **For Couriers:** We offer a platform built for independence and reliability. We facilitate the connection between you and the community you serve, ensuring your contributions are valued and your earnings are clear.
 
-These legal documents outline the terms, policies, and agreements governing the use of the Peastash ecosystem.
+These legal documents outline the terms, policies, and agreements governing the use of the Munchappy ecosystem.
 
 ---
 
