@@ -82,15 +82,6 @@ To exercise these rights, contact: **support@munchappy.com**
 
 ---
 
-## 6. Data Security
-
-Security is our primary guardrail. We utilize:
-* Row Level Security (RLS) policies for database isolation.
-* Encrypted communications and secure tokenization via Stripe and Didit.
-* Regular audit logging and fraud detection systems.
-
----
-
 ## 7. Contact Information
 
 **The Candeed Corp (DBA Munchappy)** 
