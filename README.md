@@ -1,7 +1,4 @@
-from weasyprint import HTML
-
-# Content for the Markdown file
-markdown_content = """# Munchappy Legal Hub
+# Munchappy, Inc.
 
 Munchappy is a local commerce and food delivery infrastructure operated by **The Candeed Corp**. We exist to restore fairness, transparency, and simplicity to the digital marketplace. Our platform is built on the belief that local commerce only thrives when it serves the human beings who power it: the customers, the restaurants, and the couriers.
 
@@ -49,9 +46,3 @@ Email: **support@peastash.com**
 
 *Last Updated: April 25, 2026*
 """
-
-# Save as a .md file
-with open("munchappy_legal_hub.md", "w") as f:
-    f.write(markdown_content)
-
-print("munchappy_legal_hub.md")
