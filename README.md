@@ -9,13 +9,13 @@ Our mission is to make food delivery fair again. We are building more than a log
 * **Restaurants** deserve to keep the fruits of their labor to sustain their craft. 
 * **Couriers** deserve a stable and transparent partnership that respects their time and effort. 
 
-Peastash brings all three together on a platform where the architecture is governed by logic and the experience is guided by human values.
+Munchappy brings all three together on a platform where the architecture is governed by logic and the experience is guided by human values.
 
 ## Vision: A System Built for Humans
 We aim to become the most trusted and transparent local commerce system—a place where the community wins together. Our vision is to eliminate the exploitation often hidden within "black box" delivery algorithms. We are building for a future where local commerce is simple, fast, and fundamentally fair. No hidden layers, no inflated costs—just a direct connection between the kitchen and the home.
 
 ## About the Platform
-Peastash connects customers with local merchants and independent couriers through a high-performance native infrastructure. Our model is built on the principle of radical transparency:
+Munchappy connects customers with local merchants and independent couriers through a high-performance native infrastructure. Our model is built on the principle of radical transparency:
 
 * **For Customers:** We provide access to local favorites without the burden of hidden markups. You see the real price, and you receive the real food.
 * **For Restaurants:** We provide the infrastructure to digitize your business without sacrificing your margins. We view ourselves as a partner in your growth, not a tax on your existence.
@@ -42,7 +42,7 @@ These legal documents outline the terms, policies, and agreements governing the 
 
 **The Candeed Corp (DBA Munchappy, Inc)** 251 Boulevard  
 Hasbrouck Heights, NJ 07604  
-Email: **support@peastash.com**
+Email: **support@Munchappy.com**
 
 *Last Updated: April 25, 2026*
 
