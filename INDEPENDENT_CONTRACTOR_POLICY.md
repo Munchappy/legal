@@ -1,8 +1,8 @@
 # Munchappy Courier Independent Contractor Agreement
 
-**Last Updated: April 25, 2026**
-**Effective Date: April 25, 2026**
-**Version: 1.0**
+Last Updated: April 25, 2026
+
+
 
 ---
 
@@ -580,7 +580,7 @@ Munchappy reserves the right to suspend or permanently deactivate Contractor's a
 
 - Any act of fraud, misrepresentation, or deception in connection with the use of the Platform or the performance of Contracted Services;
 - Falsification of delivery records, location data, or any other information submitted through the Platform;
-- Harassment, threatening behavior, or abusive conduct toward any Customer, Restaurant employee, or Munchappy representative;
+- Harassment, threatening behavior, abusive conduct, or any other behavior that a Customer reasonably finds disrespectful, intimidating, inappropriate, or unworthy of the Platform, whether during a delivery or otherwise in connection with the performance of Contracted Services;
 - Tampering with or theft of any Customer's order;
 - Operation of a vehicle in violation of applicable law in connection with the performance of Contracted Services;
 - Material breach of any provision of this Agreement;
@@ -590,15 +590,31 @@ Munchappy reserves the right to suspend or permanently deactivate Contractor's a
 - Any conduct posing a safety risk to Customers, Restaurant employees, third parties, or the general public; or
 - Any other violation of Munchappy's policies as communicated to Contractor from time to time.
 
-### 20.2 Temporary Suspension for Investigation
+### 20.2 Customer Complaints and Conduct Reports
+
+Customers may report Contractor conduct directly to Munchappy at any time. Upon receiving a complaint, Munchappy will review the reported incident at its sole discretion based on the information available to it. Munchappy's response will be proportionate to the nature and gravity of the reported conduct and may include any of the following:
+
+- A formal warning issued to Contractor;
+- Temporary suspension of Contractor's access to the Platform pending investigation; or
+- Permanent deactivation of Contractor's account.
+
+Contractor acknowledges that a credible customer complaint regarding disrespectful, threatening, inappropriate, or unsafe conduct is sufficient grounds for Munchappy to initiate an investigation and take any of the above actions at its sole discretion. Munchappy is not required to obtain Contractor's version of events before taking interim protective measures where the safety of a Customer is a concern.
+
+### 20.3 Cooperation with Authorities
+
+Where the nature or gravity of a reported incident warrants it — including but not limited to incidents involving physical altercation, threats of violence, sexual misconduct, theft, or any other conduct that may constitute a criminal offense — Munchappy will cooperate fully with law enforcement authorities. This cooperation may include the disclosure of Contractor's account information, delivery records, location data, and any other information in Munchappy's possession that is relevant to the investigation, to the extent permitted or required by applicable law.
+
+Contractor expressly consents to such disclosure as a condition of accessing the Courier Platform and performing Contracted Services. Munchappy's cooperation with law enforcement does not constitute a determination of guilt and does not affect Munchappy's right to deactivate Contractor's account independently based on its own review of the incident.
+
+### 20.4 Temporary Suspension for Investigation
 
 Munchappy reserves the right to temporarily suspend Contractor's access to the Platform pending investigation of any suspected violation of this Agreement or applicable law, without prior notice. Munchappy will use reasonable efforts to conduct such investigation in a timely manner and to notify Contractor of the outcome.
 
-### 20.3 Notice of Deactivation
+### 20.5 Notice of Deactivation
 
-Where practicable, Munchappy will provide Contractor with written notice of permanent deactivation and the basis therefor. In cases involving safety risks, fraud, or other urgent circumstances, Munchappy may deactivate Contractor's account immediately and without prior notice.
+Where practicable, Munchappy will provide Contractor with written notice of permanent deactivation and the basis therefor. In cases involving safety risks, customer safety concerns, fraud, or other urgent circumstances, Munchappy may deactivate Contractor's account immediately and without prior notice.
 
-### 20.4 Effect of Deactivation
+### 20.6 Effect of Deactivation
 
 Upon deactivation, Contractor's license to use the Courier Platform is immediately and automatically revoked. Contractor will be entitled to receive any Net Earnings accrued and payable for Contracted Services completed prior to the effective date of deactivation, subject to any applicable withholding for Service Failures or fraud under Section 10.
 
