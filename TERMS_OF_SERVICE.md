@@ -1,8 +1,6 @@
 # Munchappy Terms of Service
 
-**Last Updated: April 25, 2026**
-**Effective Date: April 25, 2026**
-**Version: 1.0**
+Last Updated: April 25, 2026
 
 ---
 
