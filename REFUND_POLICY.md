@@ -1,7 +1,7 @@
 # Munchappy Refund Policy
 
-**Last Updated: April 25, 2026**
-**Effective Date: April 25, 2026**
+Last Updated: April 25, 2026
+
 
 ---
 
