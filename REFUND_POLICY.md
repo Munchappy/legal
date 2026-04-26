@@ -1,7 +1,8 @@
 # Munchappy Refund Policy
 
-Last Updated: April 25, 2026
-
+**Last Updated: April 25, 2026**
+**Effective Date: April 25, 2026**
+**Version: 1.0**
 
 ---
 
@@ -87,7 +88,7 @@ Munchappy will review delivery records and courier proof of delivery before proc
 
 ### 4. Delivery Fee Refunds
 
-The $9.99 delivery fee is ordinarily non-refundable, as it compensates the courier for the service they performed. However, Munchappy will refund the delivery fee in the following circumstances:
+The delivery fee is ordinarily non-refundable, as it compensates the courier for the service they performed. However, Munchappy will refund the delivery fee in the following circumstances:
 
 - Your order was never delivered (see Section 3);
 - Your refund request for the food items was denied by the restaurant and the complaint relates to the restaurant's product — including but not limited to wrong order, missing items, or food quality issues — where the courier completed the delivery as dispatched; or
