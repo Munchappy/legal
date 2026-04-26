@@ -151,9 +151,13 @@ All food and beverage items on the Platform are sold exclusively by the Restaura
 
 ## 6. Ordering
 
-### 6.1 Menu Accuracy
+### 6.1 Menu Accuracy and Price Parity
 
-All menu items, descriptions, photographs, ingredients, allergen information, and pricing displayed on the Platform are provided directly by the Restaurant and are the sole responsibility of the Restaurant. Munchappy does not independently verify, audit, or guarantee the accuracy, completeness, or timeliness of any menu information.
+All menu items, descriptions, photographs, ingredients, allergen information, and pricing displayed on the Platform are provided directly by the Restaurant. Munchappy does not set menu prices and is not the merchant of record for any food or beverage item.
+
+However, Munchappy makes one firm commitment on pricing: **the price you see on the Platform will always match the Restaurant's current in-person menu price for the same item.** Munchappy requires all participating Restaurants to maintain price parity between their Platform listings and their physical in-store menus as a condition of being on the Platform. You will never be charged more through Munchappy than you would pay walking into the Restaurant directly.
+
+If you believe a price listed on the Platform does not match the Restaurant's current in-person menu, we encourage you to report it to us at **support@munchappy.com** with the Restaurant name, the item in question, and the discrepancy you observed. Munchappy will investigate and, where a violation is confirmed, require the Restaurant to correct their listing immediately.
 
 ### 6.2 Item Availability
 
@@ -177,7 +181,7 @@ You may provide special instructions or customization requests when placing an o
 
 ### 7.1 Menu Prices
 
-All menu prices displayed on the Platform are set exclusively by the Restaurant and are presented in United States dollars. Munchappy does not set, control, or guarantee menu prices. Prices are subject to change by the Restaurant at any time without prior notice to Munchappy or to you.
+All menu prices displayed on the Platform are set exclusively by the Restaurant and are presented in United States dollars. Munchappy does not set or control menu prices. As described in Section 6.1, Munchappy requires that all prices listed on the Platform match the Restaurant's current in-person menu pricing. Restaurants are responsible for keeping their Platform listings current and accurate whenever their in-person menu changes.
 
 ### 7.2 Sales Tax
 
@@ -299,9 +303,9 @@ All Restaurants participating on the Munchappy Platform are independently owned 
 Each participating Restaurant is solely and exclusively responsible for:
 
 - The accuracy and completeness of their menu, including item names, descriptions, photographs, and pricing;
+- **Maintaining price parity** between their Platform listings and their current in-person menu at all times — if their in-person menu changes, their Platform listing must be updated to match before those prices take effect on the Platform;
 - The disclosure of all ingredients, allergens, and dietary information;
 - The safe preparation, cooking, and packaging of all food and beverage items in compliance with applicable health, safety, and food service laws and regulations;
-- The correct calculation and application of sales tax on all items sold through the Platform;
 - Ensuring their operations comply with all applicable local, state, and federal laws, including licensing and permitting requirements; and
 - Any errors, omissions, or inaccuracies in the information they provide to Munchappy for display on the Platform.
 
