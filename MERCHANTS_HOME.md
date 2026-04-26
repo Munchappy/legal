@@ -1,128 +1,93 @@
-# Deliver with Munchappy Courier
+# Partner with Munchappy
 
-**Independent. Transparent. Built to pay you fairly.**
+**Reach more customers. Keep more of your revenue. Let us handle the rest.**
 
-Munchappy Courier is the delivery platform for independent contractors in the Jersey City and New York City metro area who want to know exactly what they earn before every delivery — with no tips to chase, no hidden deductions, and a guaranteed minimum every time.
+Munchappy is a food delivery marketplace built for independent restaurants in the Jersey City and New York City metro area. We connect your kitchen to customers who want delivery — without the commission rates that have made other platforms a losing proposition for most independent operators.
 
----
-
-## What Is Munchappy Courier?
-
-Munchappy is a food delivery marketplace that connects customers with local restaurants and independent delivery contractors. When a customer places an order, Munchappy dispatches it directly to you through the Munchappy Courier app.
-
-You are not an employee. You are an independent contractor — in business for yourself, on your own schedule, using your own vehicle. Munchappy provides the technology, the customer base, and a transparent compensation structure. You provide the service.
-
-There are no shifts. No quotas. No boss. You go online when you're ready and go offline when you're done.
+We are not the right fit for every restaurant. But if you are an independent establishment that takes your food seriously, prices your menu fairly, and wants a delivery partner that is transparent about what it costs and honest about what it expects, we want to work with you.
 
 ---
 
-## Guaranteed Minimum Earnings
+## A Fee Structure Built for Independent Restaurants
 
-Every delivery completed through Munchappy Courier comes with a **guaranteed minimum net earnings of $12.00**.
+The major delivery platforms charge restaurants between 15% and 30% per order — often more when hidden fees are factored in. For most independent restaurants operating on already thin margins, that is not a partnership. That is a liability.
 
-This is not a promotional offer. It is not subject to surge conditions or market variability. It is a contractual guarantee built into how Munchappy prices every delivery — before the order is ever dispatched to you.
+Munchappy charges:
 
-Here is how it works:
+> **7% of the order subtotal + $0.30 per order received through the platform.**
 
-Munchappy charges the customer a delivery fee on your behalf. That fee is set by Munchappy at a level that accounts for distance, service area, and demand — and is always calculated to ensure your net earnings meet or exceed the $12.00 minimum after the Munchappy platform fee is deducted. You never receive less than $12.00 for a completed delivery.
+That is the complete cost of being on Munchappy. No setup fee. No monthly subscription. No tiered plans. No marketing fees. No penalty rates.
 
-For longer deliveries, your earnings increase above the minimum in accordance with Munchappy's distance-based rate structure.
+The 7% is calculated on your menu subtotal only — the price of the food items ordered, before tax. Your full menu revenue, minus the platform fee, is transferred to you on a weekly basis via Stripe Connect.
 
----
-
-## How Your Pay Is Structured
-
-Your earnings come entirely from the customer — not from Munchappy.
-
-When a customer places a delivery order, they pay a delivery fee as part of their order. That fee is collected by Munchappy on your behalf. Once you complete the delivery, Munchappy deducts a small platform fee and remits the remainder directly to you.
-
-The platform fee is **6% of the gross delivery fee plus $0.30 per completed delivery**. This fee covers the technology, dispatch infrastructure, payment processing, and platform operations that make it possible for customers to find and pay for your services.
-
-What remains after that deduction is yours — with the guarantee that it will never be less than $12.00.
-
-**You always know your earnings before you accept.** Every delivery offer displays your net payout before you decide to take it. There is no guessing, no post-delivery adjustments, and no earnings that depend on customer generosity.
+For a full breakdown of how our fee compares to industry standard platforms, visit our [Pricing page](https://munchappy.com/pricing).
 
 ---
 
-## No Tips. No Uncertainty.
+## We Handle Sales Tax For You
 
-Munchappy does not facilitate tipping. The delivery fee the customer pays is final and complete at the time of the order — it already accounts for the full value of your service.
+As a marketplace facilitator operating under New Jersey law, Munchappy is responsible for collecting and remitting applicable sales tax on all orders placed through the Platform on your behalf. You do not need to calculate, collect, or remit sales tax for any order fulfilled through Munchappy.
 
-This is an intentional design choice. Your earnings should not be a variable that depends on how a customer feels at the end of a meal. The fee is priced to reflect the value of the delivery, and you receive that value — guaranteed — every time.
+This means one less compliance obligation for your business — handled automatically, on every order, at no additional cost to you.
 
----
-
-## How Deliveries Work
-
-When you are online and available, Munchappy dispatches delivery orders directly to you based on your location. You will see the full details of the delivery — including your net earnings — before deciding to accept.
-
-Once you accept a delivery, you proceed to the restaurant, confirm the order, and deliver it to the customer's address. The Munchappy Courier app guides you through each step, including required pickup and delivery confirmation.
-
-Each delivery you complete is marked through the app, and your earnings are credited to your account automatically.
-
-You may decline or cancel up to **three deliveries per day** before your session ends for the day. Sessions reset at midnight, and you can go back online the following day with a fresh start. This policy exists to ensure that dispatched orders are handled responsibly and that customers and restaurants can rely on the platform.
+You remain responsible for sales tax on any orders placed directly with your restaurant outside of the Munchappy platform.
 
 ---
 
-## When You Get Paid
+## One Price. Everywhere.
 
-Your earnings are paid out on a **weekly basis** via direct deposit to your bank account.
+Munchappy operates on a simple and non-negotiable principle: **the price a customer sees on Munchappy must always match the price on your current in-person menu.**
 
-If you prefer not to wait, Munchappy offers an **instant cashout** option that allows you to access your available earnings at any time. A small fee may apply to instant cashout transactions. The applicable fee will always be displayed before you initiate a cashout.
+You set your prices. We display them exactly as they are. If your in-person prices change, you update your Munchappy listing to match — and that is the extent of it. Customers who order through Munchappy pay exactly what they would pay walking through your door.
 
-You are an independent contractor, and your earnings are your own. Munchappy does not withhold income taxes, Social Security, or Medicare from your payments. You are responsible for managing your own tax obligations as a self-employed individual.
-
----
-
-## What You Need to Get Started
-
-To become an approved Munchappy Courier contractor, you must meet the following requirements:
-
-- Be at least **18 years of age**
-- Be legally authorized to work in the United States
-- Possess a valid, government-issued photo ID
-- Complete **identity verification** through our secure verification process
-- Pass a **background check** administered by our third-party provider
-- Verify your phone number and email address
-- Submit a clear **profile photograph**
-- Enable location permissions on your device for the Munchappy Courier app
-
-Munchappy reviews every application. Meeting the requirements above does not guarantee approval, and Munchappy reserves the right to make final eligibility determinations at its discretion.
+This protects your customers from feeling overcharged and protects your restaurant from complaints about pricing discrepancy. It also means you never have to manage two separate price structures. One menu. One price. Everywhere.
 
 ---
 
-## Your Vehicle, Your Choice
+## How It Works
 
-You choose how you deliver. Munchappy Courier supports deliveries by bicycle, motor vehicle, scooter, or any other lawful means of transportation available to you.
+Joining Munchappy as a restaurant partner is straightforward. Here is what the day-to-day looks like once you are live on the platform:
 
-You are responsible for ensuring that your vehicle complies with all applicable local, state, and federal laws — including registration, licensing, insurance, and any other legal requirements for operating your vehicle on public roads. Munchappy does not verify, inspect, or provide coverage for your vehicle or your operation of it.
+**Orders come to you.** When a customer places an order through the Munchappy app, it is transmitted to your kitchen in real time. You receive the order details, any special instructions, and the customer's first name.
 
-Your vehicle is part of your independent business. You own that responsibility, and you keep the flexibility that comes with it.
+**You prepare the food.** That is your job and yours alone. Munchappy does not interfere with your kitchen, your recipes, your ingredients, or your process. You prepare every order to your standard, package it, and mark it ready when it is done.
 
----
+**We handle the delivery.** Once you mark an order as ready, Munchappy dispatches an independent courier to your location for pickup. You hand off the order. The courier delivers it. You never need to hire, manage, or pay a driver.
 
-## You Are an Independent Contractor
-
-Munchappy Courier is a platform for independent business operators. As a Contractor, you are not an employee of Munchappy. You set your own availability. You choose which deliveries to accept. You operate your business your way.
-
-In exchange for access to Munchappy's customer base, dispatch technology, and payment infrastructure, you agree to a straightforward platform fee on each completed delivery. Everything beyond that fee is yours.
-
-Munchappy does not tell you when to work, how to dress, what route to take, or how to run your business. Our role is to connect you with customers and make sure you get paid — transparently, reliably, and on time.
+**You get paid.** Your earnings for the week are deposited directly to your bank account via Stripe Connect on a weekly basis. Every payout is itemized. There are no surprises.
 
 ---
 
-## Ready to Deliver?
+## No Driver Fleet. No Logistics Headaches.
 
-Download the Munchappy Courier app and apply today. Your application will be reviewed, and once approved, you can go online and start accepting deliveries in the Jersey City and NYC metro area.
+Munchappy maintains a network of independent couriers who are dispatched to fulfill every delivery. You do not recruit them, manage them, insure them, or pay them. The $9.99 delivery fee paid by the customer covers the courier's earnings in full — that money never touches your revenue.
 
-<br>
-
-[**Download on the App Store**](https://apps.apple.com/us/app/munchappy-courier/id6760362572)
-
-<br>
-
-For questions about the application process or the platform, contact us at **support@munchappy.com**.
+Your only job is to prepare great food and have it ready when the courier arrives.
 
 ---
 
-*Munchappy Courier is operated by The Candeed Corp, a New Jersey corporation doing business as Munchappy. All contractors are subject to the Munchappy Courier Independent Contractor Agreement. Earnings figures reflect net pay after the applicable platform fee and are subject to the terms of the Independent Contractor Agreement.*
+## What We Expect from You
+
+Munchappy is built on the expectation that restaurants on the platform meet a consistent standard. In exchange for access to our customer base and delivery infrastructure, we require that you:
+
+- **Keep your menu accurate.** Item names, descriptions, photographs, and prices on Munchappy must reflect your current offerings at all times.
+- **Maintain price parity.** Your Munchappy prices must always match your current in-person menu. If your prices change, your listing must be updated before those changes take effect on the platform.
+- **Prepare food safely and correctly.** You are solely responsible for the preparation, packaging, and quality of every item you sell through the platform. Food safety and compliance with all applicable health and licensing requirements are entirely your responsibility.
+- **Respond to refund requests promptly.** When a customer submits a refund or cancellation request that requires your review, you have 48 hours to approve or deny it. Consistent non-response or a pattern of unjustified denials will be reviewed under the terms of the Merchant Agreement.
+- **Keep your listing current.** If an item is discontinued, out of stock, or temporarily unavailable, update your menu accordingly. Customers should never place an order for something you cannot fulfill.
+
+We do not expect perfection. We do expect honesty, consistency, and a genuine commitment to the customer experience.
+
+---
+
+## Ready to Partner with Munchappy?
+
+If you are an independent restaurant in the Jersey City or New York City metro area and you want to reach more customers without giving away your margin, we would like to hear from you.
+
+Email us at **merchants@munchappy.com** to start the conversation. A member of our team will walk you through the onboarding process, menu setup, and everything you need to go live on the platform.
+
+[**Apply to Partner with Munchappy**](mailto:merchants@munchappy.com)
+
+---
+
+*Munchappy is operated by The Candeed Corp, a New Jersey corporation. Restaurant partners are subject to the Munchappy Merchant Agreement. All fees and terms are subject to that agreement. For questions, contact merchants@munchappy.com.*
