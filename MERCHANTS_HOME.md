@@ -1,4 +1,4 @@
-# Partner with Munchappy
+# Munchappy for Restaurants
 
 **Reach more customers. Keep more of your revenue. Let us handle the rest.**
 
