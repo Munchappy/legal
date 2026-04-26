@@ -1,6 +1,7 @@
-# Munchappy Terms of Service
+# Munchappy Customer Terms of Service
 
 Last Updated: April 25, 2026
+
 
 ---
 
@@ -332,11 +333,26 @@ As a condition of participating on the Platform, each Courier must, at minimum:
 
 ### 11.3 Authorized Delivery Method
 
-As stated in Section 8.2, the only authorized delivery method is **bicycle**. Any Courier who uses an unauthorized vehicle does so in violation of their agreement with Munchappy, and Munchappy expressly disclaims all liability for any incident or harm resulting from such unauthorized use.
+Couriers may use any vehicle of their choosing to perform deliveries, provided they comply with all applicable local, state, and federal laws governing the operation of that vehicle. Munchappy does not verify, inspect, or assume liability for any Courier's vehicle, insurance, or licensing. Any incident arising from a Courier's use of a vehicle is solely the Courier's responsibility.
 
-### 11.4 No Liability for Courier Conduct
+### 11.4 Courier Conduct and Reporting
 
-Munchappy is not responsible or liable for any act, omission, negligence, or misconduct of any Courier. Any claim arising from Courier conduct must be directed to the Courier individually. Munchappy may, at its sole discretion, assist with dispute resolution between customers and Couriers as a courtesy, but is under no obligation to do so.
+Munchappy expects all Couriers to treat customers with professionalism and respect at all times. While Couriers are independent contractors and not employees of Munchappy, conduct that a customer reasonably finds disrespectful, threatening, inappropriate, or otherwise unworthy of the Platform is taken seriously by Munchappy.
+
+If you experience conduct from a Courier that concerns you — including but not limited to harassment, threatening behavior, inappropriate language, or any other conduct that made you feel unsafe or disrespected — you are encouraged to report it to Munchappy at **support@munchappy.com** as soon as possible. Please include your order number, a description of the incident, and any supporting evidence where available.
+
+Upon receiving a report, Munchappy will review the incident at its sole discretion. Depending on the nature and gravity of the reported conduct, Munchappy may take any of the following actions:
+
+- Issue a formal warning to the Courier;
+- Temporarily suspend the Courier's access to the Platform pending investigation;
+- Permanently remove the Courier from the Platform; and/or
+- Cooperate fully with law enforcement authorities where the conduct warrants it or where required by law.
+
+Munchappy's ability to act is subject to its knowledge of the incident and the information available to it at the time of review. Customers are encouraged to contact law enforcement directly in any situation involving immediate safety concerns.
+
+### 11.5 No Liability for Courier Conduct
+
+Munchappy is not responsible or liable for any act, omission, negligence, or misconduct of any Courier. Couriers are independent contractors, and their conduct outside of the outcome specifications of a delivery is not within Munchappy's control. Munchappy's commitment to reviewing reported incidents and taking appropriate action does not constitute an assumption of liability for Courier conduct.
 
 ---
 
