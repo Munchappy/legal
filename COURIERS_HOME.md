@@ -2,9 +2,6 @@
 
 **Independent. Transparent. Built to pay you fairly.**
 
-Munchappy Courier is the delivery platform for independent contractors in the Jersey City and New York City metro area who want to know exactly what they earn before every delivery — with no tips to chase, no hidden deductions, and a guaranteed minimum every time.
-
----
 
 ## What Is Munchappy Courier?
 
