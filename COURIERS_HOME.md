@@ -15,7 +15,7 @@ There are no shifts. No quotas. No boss. You go online when you're ready and go 
 
 ## Guaranteed Minimum Earnings
 
-Every delivery completed through Munchappy Courier comes with a **guaranteed minimum net earnings of $12.00**.
+Every delivery completed through Munchappy as a Courier comes with a **guaranteed minimum net earnings of $12.00**.
 
 This is not a promotional offer. It is not subject to surge conditions or market variability. It is a contractual guarantee built into how Munchappy prices every delivery — before the order is ever dispatched to you.
 
