@@ -1,4 +1,4 @@
-# Deliver with Munchappy Courier
+# Deliver with Munchappy as a Courier
 
 **Independent. Transparent. Built to pay you fairly.**
 
