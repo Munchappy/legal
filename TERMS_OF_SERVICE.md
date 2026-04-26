@@ -183,13 +183,13 @@ All menu prices displayed on the Platform are set exclusively by the Restaurant 
 
 ### 7.2 Sales Tax
 
-Sales tax applicable to your order is calculated and imposed by the Restaurant in accordance with applicable law. Munchappy collects sales tax on behalf of the Restaurant and forwards the collected tax amount to the Restaurant. The Restaurant is solely responsible for the accurate calculation, collection, reporting, and remittance of all applicable taxes to the relevant taxing authorities. Munchappy makes no representation regarding the accuracy of any tax calculation.
+As required under New Jersey's marketplace facilitator law, Munchappy is responsible for collecting and remitting applicable sales tax on all orders placed through the Platform directly to the appropriate tax authority. Sales tax is calculated on the order subtotal and is never subject to Munchappy's platform fee. Restaurants are relieved of the obligation to collect and remit sales tax on orders fulfilled through the Platform, but remain solely responsible for taxes on any sales made outside of the Platform.
 
 ### 7.3 Delivery Fee
 
-A flat **$9.99 delivery fee** applies to every order placed through the Platform. **One hundred percent (100%) of this delivery fee is paid directly to the Courier** who fulfills your delivery. Munchappy retains no portion of the delivery fee.
+A delivery fee applies to every order placed through the Platform. The applicable delivery fee is disclosed at checkout before you complete your order. **One hundred percent (100%) of the delivery fee is paid directly to the Courier** who fulfills your delivery. Munchappy retains no portion of the delivery fee.
 
-The delivery fee is non-refundable except in limited circumstances described in Section 9.
+The delivery fee is non-refundable except in limited circumstances described in Section 9 and the Refund Policy.
 
 ### 7.4 Payment Processing
 
