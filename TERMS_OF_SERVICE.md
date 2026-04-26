@@ -1,4 +1,4 @@
-# Munchappy Customer Terms of Service
+# Munchappy Terms of Service
 
 Last Updated: April 25, 2026
 
