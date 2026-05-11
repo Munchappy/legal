@@ -1,47 +1,36 @@
-# Munchappy, Inc.
+# Munchappy
 
-Munchappy is a local commerce and food delivery infrastructure operated by **The Candeed Corp**. We exist to restore fairness, transparency, and simplicity to the digital marketplace. Our platform is built on the belief that local commerce only thrives when it serves the human beings who power it: the customers, the restaurants, and the couriers.
+Munchappy is a food delivery marketplace operated by The Candeed Corp. We connect customers, restaurants, and couriers on a platform built around one principle: what you see is what you get, for everyone.
 
-## Mission: Reclaiming Local Commerce
-Our mission is to make food delivery fair again. We are building more than a logistics tool; we are creating a system designed for people. We believe that technology should be a bridge, not a barrier. 
+Restaurants keep more of what they earn. Couriers know their pay before they accept a delivery. Customers pay the same price they would walking through the door. No hidden fees, no inflated markups, no black-box algorithms.
 
-* **Customers** deserve the honesty of the actual menu price. 
-* **Restaurants** deserve to keep the fruits of their labor to sustain their craft. 
-* **Couriers** deserve a stable and transparent partnership that respects their time and effort. 
+We started in the New York City and Jersey City metro area and we are building for everywhere.
 
-Munchappy brings all three together on a platform where the architecture is governed by logic and the experience is guided by human values.
+---
 
-## Vision: A System Built for Humans
-We aim to become the most trusted and transparent local commerce system—a place where the community wins together. Our vision is to eliminate the exploitation often hidden within "black box" delivery algorithms. We are building for a future where local commerce is simple, fast, and fundamentally fair. No hidden layers, no inflated costs—just a direct connection between the kitchen and the home.
+## Who we serve
 
-## About the Platform
-Munchappy connects customers with local merchants and independent couriers through a high-performance native infrastructure. Our model is built on the principle of radical transparency:
+**Customers** get access to local restaurants at the actual menu price. No markups, no surprises at checkout.
 
-* **For Customers:** We provide access to local favorites without the burden of hidden markups. You see the real price, and you receive the real food.
-* **For Restaurants:** We provide the infrastructure to digitize your business without sacrificing your margins. We view ourselves as a partner in your growth, not a tax on your existence.
-* **For Couriers:** We offer a platform built for independence and reliability. We facilitate the connection between you and the community you serve, ensuring your contributions are valued and your earnings are clear.
+**Restaurants** get delivery infrastructure without giving away their margins. A flat fee, a weekly payout, and no fine print.
 
-These legal documents outline the terms, policies, and agreements governing the use of the Munchappy ecosystem.
+**Couriers** get guaranteed minimum earnings on every delivery, displayed upfront before they accept. Their pay does not depend on tips or surge conditions.
 
 ---
 
 ## Legal Documents
 
 - **[Terms of Service](TERMS_OF_SERVICE.md)**
-  *The governing rules for our shared digital space.*
 - **[Privacy Policy](PRIVACY_POLICY.md)**
-  *Our commitment to protecting the data of the individuals we serve.*
 - **[Courier Agreement](COURIER_AGREEMENT.md)**
-  *The foundation of our partnership with independent delivery professionals.*
 - **[Merchant Agreement](MERCHANT_AGREEMENT.md)**
-  *The terms governing our support of local culinary partners.*
+- **[Pricing](PRICING.md)**
 
 ---
 
-## Contact Information
+## Contact
 
-**The Candeed Corp (DBA Munchappy, Inc)**
-Email: **support@Munchappy.com**
+**The Candeed Corp, doing business as Munchappy**
+support@munchappy.com
 
-*Last Updated: April 25, 2026*
-
+*Last updated: April 25, 2026*
