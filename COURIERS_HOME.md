@@ -27,7 +27,7 @@ For longer deliveries, your earnings increase above the minimum in accordance wi
 
 ## How Your Pay Is Structured
 
-Your earnings come entirely from the customer, not from Munchappy.
+Your earnings come entirely from the customer, not from Munchappy. We charge them on your behalf.
 
 When a customer places a delivery order, they pay a delivery fee as part of their order. That fee is collected by Munchappy on your behalf. Once you complete the delivery, Munchappy deducts a small platform fee and remits the remainder directly to you.
 
