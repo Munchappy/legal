@@ -14,7 +14,7 @@ All support inquiries should be directed to the appropriate address below. Each 
 | Billing & Payouts | payouts@munchappy.com |
 | Safety & Incidents | safety@munchappy.com |
 | Courier Inquiries | couriers@munchappy.com |
-| Merchants Onboarding | merchants@munchappy.com |
+| Merchants Inquiries | merchants@munchappy.com |
 
 ---
 
@@ -24,4 +24,19 @@ All support inquiries should be directed to the appropriate address below. Each 
 |---|---|
 | Press Inquiries & Media | press@munchappy.com |
 
+---
+
+## Careers
+
+| Topic | Email |
+|---|---|
+| General Applications | careers@munchappy.com |
+
+---
+
+## Office of the CEO
+
+| Topic | Email |
+|---|---|
+| Executive Inquiries | ceo@munchappy.com |
 
