@@ -2,7 +2,7 @@
 
 **Reach more customers. Keep more of your revenue. Let us handle the rest.**
 
-Munchappy is a food delivery marketplace built for independent restaurants in the Jersey City and New York City metro area. We connect your kitchen to customers who want delivery — without the commission rates that have made other platforms a losing proposition for most independent operators.
+Munchappy is a food delivery marketplace built for independent restaurants in the Jersey City and New York City metro area. We connect your kitchen to customers who want Delivery/Pickup — without the commission rates that have made other platforms a losing proposition for most independent operators.
 
 We are not the right fit for every restaurant. But if you are an independent establishment that takes your food seriously, prices your menu fairly, and wants a delivery partner that is transparent about what it costs and honest about what it expects, we want to work with you.
 
