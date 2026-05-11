@@ -2,15 +2,15 @@
 
 **Reach more customers. Keep more of your revenue. Let us handle the rest.**
 
-Munchappy is a food delivery marketplace built for restaurants — starting in the Jersey City and New York City metro area, and expanding globally. We connect your kitchen to customers who want delivery and pickup, with a fee structure built around your success, not ours.
+Munchappy is a food delivery marketplace built for restaurants, starting in the Jersey City and New York City metro area and expanding globally. We connect your kitchen to customers who want delivery and pickup, with a fee structure built around your success, not ours.
 
-The major platforms have made delivery expensive and opaque. We're fixing that — for every restaurant that wants to grow their business and keep what they earn.
+The major platforms have made delivery expensive and opaque. We're fixing that for every restaurant that wants to grow their business and keep what they earn.
 
 ---
 
 ## A Fee Structure That Actually Works for You
 
-The major delivery platforms charge restaurants between 15% and 30% per order — often more when hidden fees are factored in. For restaurants operating on already thin margins, that's not a partnership. That's a problem.
+The major delivery platforms charge restaurants between 15% and 30% per order, often more when hidden fees are factored in. For restaurants operating on already thin margins, that's not a partnership. That's a problem.
 
 Munchappy charges:
 
@@ -18,7 +18,7 @@ Munchappy charges:
 
 That is the complete cost of being on Munchappy. No setup fee. No monthly subscription. No tiered plans. No marketing fees. No penalty rates.
 
-The 7% is calculated on your menu subtotal only — the price of the food items ordered, before tax. Your full menu revenue, minus the platform fee, is transferred to you on a weekly basis via Stripe Connect.
+The 7% is calculated on your menu subtotal only, meaning the price of the food items ordered before tax. Your full menu revenue, minus the platform fee, is transferred to you on a weekly basis via Stripe Connect.
 
 For a full breakdown of how our fee compares to industry standard platforms, visit our [Pricing page](https://github.com/Munchappy/legal/blob/main/PRICING.md).
 
@@ -28,7 +28,7 @@ For a full breakdown of how our fee compares to industry standard platforms, vis
 
 As a marketplace facilitator operating under New Jersey law, Munchappy is responsible for collecting and remitting applicable sales tax on all orders placed through the platform on your behalf. You do not need to calculate, collect, or remit sales tax for any order fulfilled through Munchappy.
 
-One less compliance obligation — handled automatically, on every order, at no additional cost to you.
+One less compliance obligation, handled automatically on every order at no additional cost to you.
 
 You remain responsible for sales tax on any orders placed directly with your restaurant outside of the Munchappy platform.
 
@@ -58,7 +58,7 @@ This protects your customers from feeling overcharged and protects your restaura
 
 ## No Driver Fleet. No Logistics Headaches.
 
-Munchappy maintains a network of independent couriers dispatched to fulfill every delivery. You do not recruit them, manage them, insure them, or pay them. The delivery fee paid by the customer covers the courier's earnings in full — that money never touches your revenue.
+Munchappy maintains a network of independent couriers dispatched to fulfill every delivery. You do not recruit them, manage them, insure them, or pay them. The delivery fee paid by the customer covers the courier's earnings in full and never touches your revenue.
 
 Your only job is to prepare great food and have it ready when the courier arrives.
 
