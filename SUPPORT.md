@@ -9,12 +9,12 @@ All support inquiries should be directed to the appropriate address below. Each 
 | Topic | Email |
 |---|---|
 | General Support | support@munchappy.com |
-| Order Issues & Refunds | orders@munchappy.com |
+| Refunds | refunds@munchappy.com |
 | Account & Login | accounts@munchappy.com |
 | Billing & Payouts | payouts@munchappy.com |
 | Safety & Incidents | safety@munchappy.com |
 | Courier Inquiries | couriers@munchappy.com |
-| Merchants Onboarding | couriers@munchappy.com |
+| Merchants Onboarding | merchants@munchappy.com |
 
 ---
 
