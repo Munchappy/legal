@@ -40,8 +40,7 @@ These legal documents outline the terms, policies, and agreements governing the 
 
 ## Contact Information
 
-**The Candeed Corp (DBA Munchappy, Inc)** 251 Boulevard  
-Hasbrouck Heights, NJ 07604  
+**The Candeed Corp (DBA Munchappy, Inc)**
 Email: **support@Munchappy.com**
 
 *Last Updated: April 25, 2026*
