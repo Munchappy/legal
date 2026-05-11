@@ -2,7 +2,7 @@
 
 **Simple. Transparent. Fair.**
 
-At Munchappy, we believe the people and businesses that earn through our platform should always know exactly what they pay to do so — no tiers, no hidden fees, no surprises. Every fee we charge covers the cost of building and maintaining a platform that works reliably for restaurants, couriers, and customers alike.
+At Munchappy, we believe the people and businesses that earn through our platform should always know exactly what they pay to do so. No tiers, no hidden fees, no surprises. Every fee we charge covers the cost of building and maintaining a platform that works reliably for restaurants, couriers, and customers alike.
 
 If you earn through Munchappy, you contribute a small share to keep it running. That is the entirety of our model.
 
@@ -10,9 +10,9 @@ If you earn through Munchappy, you contribute a small share to keep it running. 
 
 ## For Restaurants
 
-Munchappy gives independent restaurants in the Jersey City and New York City metro area access to a customer base, a delivery network, and a payment infrastructure — without the commission rates that define most major delivery platforms.
+Munchappy gives restaurants access to a customer base, a delivery network, and a payment infrastructure without the commission rates that define most major delivery platforms.
 
-Industry-standard platforms charge restaurants between 15% and 30% per order — often more when hidden fees are factored in. Munchappy does not.
+Industry-standard platforms charge restaurants between 15% and 30% per order, often more when hidden fees are factored in. Munchappy does not.
 
 ### What You Pay
 
@@ -20,11 +20,11 @@ Industry-standard platforms charge restaurants between 15% and 30% per order —
 
 No setup fees. No monthly subscription. No marketing fees. No tiered plans. No penalty rates.
 
-The 7% is calculated on the **menu subtotal only** — the price of the food and beverage items ordered, before tax. Sales tax is collected from the customer by Munchappy and remitted directly to the appropriate tax authority on your behalf, as required under New Jersey's marketplace facilitator law. Tax is never subject to the Munchappy fee.
+The 7% is calculated on the menu subtotal only, meaning the price of the food and beverage items ordered before tax. Sales tax is collected from the customer by Munchappy and remitted directly to the appropriate tax authority on your behalf, as required under New Jersey's marketplace facilitator law. Tax is never subject to the Munchappy fee.
 
 ### What You Keep
 
-Your menu revenue — the full subtotal of every order — minus the platform fee, transferred to you via Stripe Connect on a weekly basis.
+Your menu revenue, being the full subtotal of every order, minus the platform fee, transferred to you via Stripe Connect on a weekly basis.
 
 ### What You Get
 
@@ -35,11 +35,29 @@ Your menu revenue — the full subtotal of every order — minus the platform fe
 - **Delivery coordination** — independent couriers dispatched for every order, no driver fleet required
 - **Platform infrastructure** — the technology, support, and operations that keep everything running
 
+### Real Example: What You Actually Keep
+
+Say your restaurant does **200 orders per month** at an average subtotal of **$35.00**.
+
+**Monthly revenue: $7,000.00**
+
+| | Munchappy | Competitor at 25% |
+|---|---|---|
+| Commission | 7% + $0.30/order | 25% flat |
+| Commission amount | $490.00 | $1,750.00 |
+| Per-order fee | $60.00 | $0.00 |
+| Total platform cost | **$550.00** | **$1,750.00** |
+| You keep | **$6,450.00** | **$5,250.00** |
+| **Monthly savings with Munchappy** | **$1,200.00** | |
+| **Annual savings with Munchappy** | **$14,400.00** | |
+
+These numbers reflect the Munchappy fee structure exactly. No estimates, no fine print.
+
 ### How It Compares
 
 | | Munchappy | Major Platforms |
 |---|---|---|
-| Commission per order | 7% of subtotal + $0.30 | 15% – 30%+ of order total |
+| Commission per order | 7% of subtotal + $0.30 | 15% to 30%+ of order total |
 | Setup fee | None | Varies |
 | Monthly fee | None | Varies |
 | Tax included in commission | No | Often yes |
@@ -55,23 +73,38 @@ A member of our team will walk you through setup, menu configuration, and everyt
 
 ## For Couriers
 
-Munchappy Courier dispatches delivery orders to you, collects the delivery fee from the customer on your behalf, and remits your earnings automatically — minus a small platform fee.
+Munchappy Courier dispatches delivery orders to you, collects the delivery fee from the customer on your behalf, and remits your earnings automatically, minus a small platform fee.
 
 ### What You Pay
 
 > **6% of the gross delivery fee + $0.30 per completed delivery.**
 
-Deducted automatically upon completion. You never write a check or send an invoice — your net earnings are calculated and settled for every delivery you complete.
+Deducted automatically upon completion. You never write a check or send an invoice. Your net earnings are calculated and settled for every delivery you complete.
 
 ### What You Are Guaranteed
 
-**Your net earnings will never be less than $12.00 for any completed delivery** — contractually, not as a promotion. Munchappy sets the gross delivery fee at a level that ensures this minimum is always met after the platform fee is applied. For longer deliveries, earnings increase above the minimum in accordance with Munchappy's distance-based rate structure.
+Your net earnings will never be less than **$12.00 for any completed delivery**, contractually, not as a promotion. Munchappy sets the gross delivery fee at a level that ensures this minimum is always met after the platform fee is applied. For longer deliveries, earnings increase above the minimum in accordance with Munchappy's distance-based rate structure.
 
 Your full net earnings are displayed before you accept each delivery. What you see is what you earn.
 
+### Real Example: What You Actually Earn
+
+Here is how three typical deliveries break down under our model.
+
+| | Short haul | Standard | Long haul |
+|---|---|---|---|
+| Estimated distance | 1.2 miles | 3.0 miles | 6.5 miles |
+| Estimated drive time | 8 min | 15 min | 28 min |
+| Gross delivery fee | $13.90 | $16.50 | $22.00 |
+| Platform fee (6%) | $0.83 | $0.99 | $1.32 |
+| Per-delivery fee | $0.30 | $0.30 | $0.30 |
+| **Your net earnings** | **$12.77** | **$15.21** | **$20.38** |
+
+Every figure above reflects the actual Munchappy fee structure. The $12.00 floor is always met. Longer deliveries always pay more.
+
 ### How Your Pay Works
 
-Your earnings come entirely from the customer. When a customer places a delivery order, they pay a delivery fee as part of their order. Munchappy collects that fee on your behalf, deducts the platform fee upon completion, and remits the remainder to you. Munchappy does not contribute to your pay from its own funds — the platform fee is what you contribute to access the customers, dispatch technology, payment infrastructure, and operational support that make the service possible.
+Your earnings come entirely from the customer. When a customer places a delivery order, they pay a delivery fee as part of their order. Munchappy collects that fee on your behalf, deducts the platform fee upon completion, and remits the remainder to you. Munchappy does not contribute to your pay from its own funds. The platform fee is what you contribute to access the customers, dispatch technology, payment infrastructure, and operational support that make the service possible.
 
 ### When You Get Paid
 
@@ -80,7 +113,7 @@ Your earnings come entirely from the customer. When a customer places a delivery
 
 ### No Tips. By Design.
 
-Munchappy does not facilitate tipping. The delivery fee already reflects the full value of your service — your earnings are built into the price of the order, not dependent on customer discretion at the end of a delivery.
+Munchappy does not facilitate tipping. The delivery fee already reflects the full value of your service. Your earnings are built into the price of the order, not dependent on customer discretion at the end of a delivery.
 
 ### Ready to Deliver?
 
@@ -94,8 +127,8 @@ Questions? Contact us at **support@munchappy.com**.
 
 Most delivery platforms are built to maximize what they extract from the people who power them. The result is commission rates that erode restaurant margins and earnings structures for couriers that are unpredictable at best.
 
-Munchappy is built differently. Our fee exists to cover the cost of operating a platform that reliably serves everyone on it — nothing more. When restaurants keep more of their revenue, they stay on the platform. When couriers earn predictably, they deliver reliably. When customers have a good experience, they come back. That is the entire logic behind our pricing.
+Munchappy is built differently. Our fee exists to cover the cost of operating a platform that reliably serves everyone on it, nothing more. When restaurants keep more of their revenue, they stay on the platform. When couriers earn predictably, they deliver reliably. When customers have a good experience, they come back. That is the entire logic behind our pricing.
 
 ---
 
-*Munchappy is operated by The Candeed Corp, a New Jersey corporation. All fees are subject to the applicable Merchant Agreement or Independent Contractor Agreement. Munchappy reserves the right to modify its fee structure with advance notice as provided in those agreements. For questions, contact **support@munchappy.com**.*
+*Munchappy is operated by The Candeed Corp, a New Jersey corporation. All fees are subject to the applicable Merchant Agreement or Independent Contractor Agreement. Munchappy reserves the right to modify its fee structure with advance notice as provided in those agreements. For questions, contact support@munchappy.com.*
